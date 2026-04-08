@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Ralph Goodman Finish Carpentry",
+    "phone": "+14058127636",
+    "category": "carpenter",
+    "city": "Oklahoma City",
+    "state": "OK"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Expert Finish Carpentry in OKC",
+      "heroSubline": "Precision craftsmanship for homes and businesses. Delivering exceptional quality and lasting value throughout Oklahoma City.",
+      "aboutTitle": "Crafting Excellence Across Oklahoma City",
+      "aboutText": [
+        "Ralph Goodman Finish Carpentry started with a simple goal: to bring unparalleled carpentry skills to the Oklahoma City metro. Founded by Ralph Goodman, a lifelong woodworker with a passion for precision, we've grown from a small operation to a trusted name in residential and commercial carpentry.",
+        "We believe in doing things right the first time. Our approach is rooted in meticulous planning, careful material selection, and expert execution. We're committed to transparent communication, respecting your budget, and exceeding your expectations.",
+        "We're proud to be a part of the Oklahoma City community. We source materials locally whenever possible and actively support local charities. We understand the unique challenges our climate presents to Oklahoma homes and businesses, and we build accordingly."
+      ],
+      "valueProps": [
+        {
+          "title": "Unmatched Craftsmanship",
+          "description": "Decades of experience and a commitment to quality ensure every project is flawlessly executed."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand Oklahoma City's unique climate and housing styles, delivering solutions that last."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprises. We provide clear, detailed estimates and stick to our word."
+        },
+        {
+          "title": "Dedicated Team",
+          "description": "Our skilled carpenters are passionate about their craft and dedicated to your satisfaction."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Space?",
+      "ctaSubline": "Contact Ralph Goodman Finish Carpentry today for a free consultation and estimate."
+    },
+    "services": [
+      {
+        "slug": "custom-cabinetry",
+        "name": "Custom Cabinetry",
+        "shortDescription": "Elevate your home with handcrafted, bespoke cabinets designed to fit your unique style.",
+        "description": "Transform your kitchen, bathroom, or any room with custom-designed and built cabinetry. We work with you to create functional and beautiful storage solutions that perfectly complement your space. From initial design to final installation, we handle every detail with precision and care. We select only the finest hardwoods and materials, ensuring lasting quality and durability that withstand Oklahoma's seasonal changes. Whether you desire a modern, minimalist look or a more traditional, ornate style, our expert craftsmen can bring your vision to life. We specialize in maximizing space and creating efficient layouts that enhance your daily living experience. Our custom finishes are applied with meticulous attention to detail, providing a durable and attractive surface that will stand the test of time. We understand the unique challenges of Oklahoma City homes, including the clay soil and storm threats, and build our cabinetry to withstand these conditions.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your needs and preferences and create a detailed design plan.",
+          "Step 2: Material Selection – We help you choose the perfect hardwoods and finishes to match your style.",
+          "Step 3: Expert Construction – Our skilled carpenters meticulously craft your custom cabinets.",
+          "Step 4: Professional Installation – We ensure a seamless and precise installation for a flawless finish."
+        ],
+        "benefits": [
+          "Maximize space and functionality",
+          "Enhance the beauty and value of your home",
+          "Create a personalized storage solution",
+          "Enjoy lasting quality and durability"
+        ],
+        "faq": [
+          {
+            "question": "What types of wood do you use for custom cabinetry?",
+            "answer": "We offer a wide range of hardwoods, including oak, maple, cherry, walnut, and more. We can also source specialty woods upon request."
+          },
+          {
+            "question": "How long does it take to complete a custom cabinetry project?",
+            "answer": "The timeline depends on the complexity and size of the project. We'll provide a detailed estimate during the initial consultation."
+          },
+          {
+            "question": "Do you offer custom finishes and hardware?",
+            "answer": "Yes, we offer a wide variety of custom finishes, stains, and hardware options to perfectly match your style."
+          }
+        ]
+      },
+      {
+        "slug": "trim-molding-installation",
+        "name": "Trim & Molding Installation",
+        "shortDescription": "Add elegance and sophistication to any room with expertly installed trim and molding.",
+        "description": "Elevate the aesthetic appeal of your home or business with our professional trim and molding installation services. We handle everything from baseboards and crown molding to door and window casings, adding architectural detail and character to any space. Our experienced carpenters ensure precise cuts, seamless joints, and a flawless finish that enhances the overall look and feel of your property. We understand the nuances of working with different materials, including wood, MDF, and composite trim. We can advise you on the best options for your budget and style preferences. We pay close attention to detail, ensuring that every piece of trim is perfectly aligned and securely fastened. We are experienced in working within the older homes of Mesta Park as well as the newer builds going up in Edmond. We are also equipped to handle the challenges posed by older homes in Oklahoma City, including uneven walls and ceilings. We take pride in our ability to transform ordinary spaces into extraordinary ones with the simple addition of trim and molding.",
+        "process": [
+          "Step 1: Consultation and Design – We assess your space and discuss your desired trim and molding styles.",
+          "Step 2: Material Selection – We help you choose the perfect materials to match your aesthetic.",
+          "Step 3: Precise Installation – Our skilled carpenters meticulously install your trim and molding.",
+          "Step 4: Finishing Touches – We ensure a flawless finish with caulking, painting, and touch-ups."
+        ],
+        "benefits": [
+          "Enhance the architectural detail of your space",
+          "Increase the value of your property",
+          "Create a more refined and polished look",
+          "Protect your walls and floors from damage"
+        ],
+        "faq": [
+          {
+            "question": "What types of trim and molding do you install?",
+            "answer": "We install a wide range of trim and molding, including baseboards, crown molding, chair rails, door casings, and window casings."
+          },
+          {
+            "question": "Can you match existing trim and molding?",
+            "answer": "Yes, we can match existing trim and molding to ensure a seamless look throughout your home."
+          },
+          {
+            "question": "Do you offer painting and staining services for trim and molding?",
+            "answer": "Yes, we offer professional painting and staining services to complete your trim and molding project."
+          }
+        ]
+      },
+      {
+        "slug": "custom-shelving",
+        "name": "Custom Shelving & Storage",
+        "shortDescription": "Maximize your space with custom shelving solutions tailored to your specific needs.",
+        "description": "Optimize your storage space with our custom shelving and storage solutions. We design and build shelving units that perfectly fit your needs and style, whether it's for a home office, closet, pantry, or garage. Our skilled carpenters use high-quality materials and construction techniques to ensure durability and longevity. We offer a variety of shelving styles, including floating shelves, built-in units, and adjustable shelving systems. We work closely with you to understand your storage requirements and create a solution that maximizes space and enhances organization. We understand the need for functional and attractive storage solutions in Oklahoma City homes, especially those with limited space. We can help you declutter your home and create a more organized and efficient living environment. We're familiar with the space constraints of older homes in neighborhoods like Mesta Park and can create solutions that maximize every inch.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your storage needs and design a custom shelving solution.",
+          "Step 2: Material Selection – We help you choose the perfect materials and finishes.",
+          "Step 3: Expert Construction – Our skilled carpenters build your custom shelving unit.",
+          "Step 4: Professional Installation – We ensure a secure and precise installation."
+        ],
+        "benefits": [
+          "Maximize space and organization",
+          "Create a clutter-free living environment",
+          "Enhance the functionality of your home",
+          "Add value to your property"
+        ],
+        "faq": [
+          {
+            "question": "What types of materials do you use for custom shelving?",
+            "answer": "We use a variety of materials, including wood, MDF, and plywood. We can also use specialty materials upon request."
+          },
+          {
+            "question": "Can you build shelving around existing features, such as windows or doors?",
+            "answer": "Yes, we can design and build shelving units that seamlessly integrate with existing architectural features."
+          },
+          {
+            "question": "Do you offer adjustable shelving options?",
+            "answer": "Yes, we offer adjustable shelving systems that allow you to customize the height and spacing of your shelves."
+          }
+        ]
+      },
+      {
+        "slug": "door-installation-repair",
+        "name": "Door Installation & Repair",
+        "shortDescription": "Ensure the security and beauty of your home with our professional door services.",
+        "description": "Protect your home and enhance its curb appeal with our professional door installation and repair services. We handle everything from entry doors and interior doors to patio doors and storm doors. Our experienced carpenters ensure proper installation, smooth operation, and a secure fit. We can also repair damaged doors, including fixing broken hinges, replacing damaged frames, and repairing weather stripping. We understand the importance of a secure and energy-efficient door, especially in Oklahoma City's climate. We offer a wide selection of door styles and materials to match your home's architecture and your personal preferences. We can help you choose the right door for your needs and budget. We are familiar with common door problems in Oklahoma City homes, such as warping due to moisture and damage from severe weather. We use high-quality materials and techniques to ensure that your doors withstand the elements and provide lasting protection.",
+        "process": [
+          "Step 1: Consultation and Assessment – We assess your door needs and recommend the best solutions.",
+          "Step 2: Door Selection – We help you choose the perfect door style and material.",
+          "Step 3: Professional Installation or Repair – Our skilled carpenters install or repair your door with precision.",
+          "Step 4: Finishing Touches – We ensure smooth operation and a secure fit."
+        ],
+        "benefits": [
+          "Enhance the security of your home",
+          "Improve energy efficiency",
+          "Increase curb appeal",
+          "Protect your home from the elements"
+        ],
+        "faq": [
+          {
+            "question": "What types of doors do you install and repair?",
+            "answer": "We install and repair a wide range of doors, including entry doors, interior doors, patio doors, and storm doors."
+          },
+          {
+            "question": "How long does it take to install a new door?",
+            "answer": "The installation time depends on the type of door and the complexity of the project. We'll provide a detailed estimate during the initial consultation."
+          },
+          {
+            "question": "Do you offer emergency door repair services?",
+            "answer": "Yes, we offer emergency door repair services for situations that require immediate attention."
+          }
+        ]
+      },
+      {
+        "slug": "window-installation-repair",
+        "name": "Window Installation & Repair",
+        "shortDescription": "Improve energy efficiency and enhance natural light with our expert window services.",
+        "description": "Upgrade your home's energy efficiency and aesthetics with our professional window installation and repair services. We handle everything from replacing old, drafty windows to repairing damaged frames and glass. Our experienced carpenters ensure proper installation, weather-tight seals, and smooth operation. We understand the importance of energy-efficient windows in Oklahoma City's climate, where extreme temperatures can significantly impact your energy bills. We offer a wide selection of window styles and materials to match your home's architecture and your personal preferences. We can help you choose the right windows for your needs and budget. We are familiar with common window problems in Oklahoma City homes, such as condensation, leaks, and damaged frames. We use high-quality materials and techniques to ensure that your windows withstand the elements and provide lasting performance.",
+        "process": [
+          "Step 1: Consultation and Assessment – We assess your window needs and recommend the best solutions.",
+          "Step 2: Window Selection – We help you choose the perfect window style and material.",
+          "Step 3: Professional Installation or Repair – Our skilled carpenters install or repair your windows with precision.",
+          "Step 4: Finishing Touches – We ensure weather-tight seals and smooth operation."
+        ],
+        "benefits": [
+          "Improve energy efficiency and lower energy bills",
+          "Enhance natural light and ventilation",
+          "Increase curb appeal",
+          "Protect your home from the elements"
+        ],
+        "faq": [
+          {
+            "question": "What types of windows do you install and repair?",
+            "answer": "We install and repair a wide range of windows, including double-hung windows, casement windows, sliding windows, and bay windows."
+          },
+          {
+            "question": "How long does it take to install new windows?",
+            "answer": "The installation time depends on the number of windows and the complexity of the project. We'll provide a detailed estimate during the initial consultation."
+          },
+          {
+            "question": "Do you offer window replacement services for historic homes?",
+            "answer": "Yes, we offer window replacement services that preserve the historic character of your home."
+          }
+        ]
+      },
+      {
+        "slug": "deck-patio-construction",
+        "name": "Deck & Patio Construction",
+        "shortDescription": "Create the perfect outdoor living space with our custom deck and patio construction services.",
+        "description": "Expand your living space and enjoy the outdoors with our custom deck and patio construction services. We design and build decks and patios that perfectly fit your lifestyle and enhance your property. Our experienced carpenters use high-quality materials and construction techniques to ensure durability and longevity. We offer a variety of decking and patio materials, including wood, composite, and concrete. We work closely with you to understand your needs and create a design that maximizes your outdoor enjoyment. We understand the importance of a well-built deck or patio in Oklahoma City's climate, where summers are hot and winters can be harsh. We build our decks and patios to withstand the elements and provide years of enjoyment. We are familiar with the local building codes and regulations, ensuring that your project is completed safely and to code.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your outdoor living needs and create a custom deck or patio design.",
+          "Step 2: Material Selection – We help you choose the perfect materials for your project.",
+          "Step 3: Expert Construction – Our skilled carpenters build your deck or patio with precision.",
+          "Step 4: Finishing Touches – We add the finishing touches to create a beautiful and functional outdoor space."
+        ],
+        "benefits": [
+          "Expand your living space and enjoy the outdoors",
+          "Increase the value of your property",
+          "Create a beautiful and functional outdoor space",
+          "Enjoy years of outdoor enjoyment"
+        ],
+        "faq": [
+          {
+            "question": "What types of materials do you use for deck and patio construction?",
+            "answer": "We use a variety of materials, including wood, composite, and concrete. We can also use specialty materials upon request."
+          },
+          {
+            "question": "Do I need a permit to build a deck or patio?",
+            "answer": "Permit requirements vary depending on the size and location of your project. We can help you obtain the necessary permits."
+          },
+          {
+            "question": "How long does it take to build a deck or patio?",
+            "answer": "The construction time depends on the size and complexity of the project. We'll provide a detailed estimate during the initial consultation."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Oklahoma City",
+        "slug": "oklahoma-city-ok",
+        "state": "OK",
+        "content": "Ralph Goodman Finish Carpentry is proud to offer expert carpentry services to the residents and businesses of Oklahoma City. We understand the unique architectural styles and needs of homes and commercial properties throughout the metro area, from the historic neighborhoods to the modern developments.\n\nOur team is committed to providing top-quality craftsmanship and exceptional customer service. Whether you need custom cabinetry, intricate trim work, or a complete home remodel, we have the skills and experience to bring your vision to life. We use only the finest materials and employ proven techniques to ensure lasting beauty and functionality.",
+        "localContext": "Oklahoma City, the state capital, is known for its thriving arts scene, delicious food, and friendly community. We're familiar with local building codes and permitting processes.",
+        "nearbyAreas": [
+          "Edmond",
+          "Moore",
+          "Norman"
+        ]
+      },
+      {
+        "city": "Edmond",
+        "slug": "edmond-ok",
+        "state": "OK",
+        "content": "Ralph Goodman Finish Carpentry extends its premier carpentry services to Edmond, Oklahoma. We appreciate the blend of suburban charm and modern amenities that define this city, and we're dedicated to enhancing homes and businesses with our expert craftsmanship.\n\nFrom custom-built shelving to intricate crown molding, we tailor our services to meet your specific needs and complement your property's style. We prioritize clear communication and meticulous attention to detail, ensuring a seamless and satisfying experience for every client. We are dedicated to providing the best quality work in Edmond.",
+        "localContext": "Edmond is a family-friendly city known for its excellent schools and beautiful parks. We understand the importance of quality workmanship in maintaining the value and appeal of your home.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Guthrie",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Norman",
+        "slug": "norman-ok",
+        "state": "OK",
+        "content": "Ralph Goodman Finish Carpentry is pleased to serve the community of Norman, Oklahoma. Home to the University of Oklahoma, Norman boasts a vibrant atmosphere and a diverse range of architectural styles. We are committed to providing exceptional carpentry services to homeowners and businesses throughout the city.\n\nOur team specializes in a variety of finish carpentry services, including custom cabinetry, trim work, and door installation. We understand the importance of precision and attention to detail, and we strive to exceed your expectations with every project. We will help you make your house a home.",
+        "localContext": "Norman is a dynamic city known for its university, cultural attractions, and strong community spirit. We're familiar with the unique needs and preferences of Norman residents.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Moore",
+          "Purcell"
+        ]
+      },
+      {
+        "city": "Moore",
+        "slug": "moore-ok",
+        "state": "OK",
+        "content": "Ralph Goodman Finish Carpentry provides top-notch carpentry solutions to the residents of Moore, Oklahoma. Understanding the specific needs of this community, we offer services ranging from custom cabinetry to detailed trim work, ensuring your home or business reflects your personal style.\n\nWith a focus on quality and durability, we use only the best materials and techniques. Our goal is to enhance your living or working space with beautiful and functional carpentry that stands the test of time. We pride ourselves on meeting deadlines and staying within budget.",
+        "localContext": "Moore is a resilient community known for its strong spirit and neighborly atmosphere. We are committed to providing reliable and trustworthy services to our Moore neighbors.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Norman",
+          "Newcastle"
+        ]
+      },
+      {
+        "city": "Yukon",
+        "slug": "yukon-ok",
+        "state": "OK",
+        "content": "Ralph Goodman Finish Carpentry brings its expertise to Yukon, Oklahoma, offering a wide range of carpentry services tailored to the needs of this growing community. From enhancing new constructions to revitalizing existing homes, we're dedicated to providing superior craftsmanship.\n\nOur services include custom millwork, intricate trim details, and complete interior renovations. We work closely with you to understand your vision and deliver results that exceed your expectations. We treat your home as if it were our own.",
+        "localContext": "Yukon is a family-oriented city with a strong sense of community and a rich history. We appreciate the values and traditions that make Yukon a special place to live and work.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Mustang",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Mustang",
+        "slug": "mustang-ok",
+        "state": "OK",
+        "content": "Ralph Goodman Finish Carpentry proudly serves Mustang, Oklahoma, providing high-quality carpentry services to homeowners and businesses alike. We understand the importance of creating beautiful and functional spaces, and we're dedicated to delivering exceptional results.\n\nOur team specializes in a variety of finish carpentry services, including custom cabinetry, trim work, and door installation. We use only the finest materials and employ proven techniques to ensure lasting beauty and functionality. We guarantee your satisfaction.",
+        "localContext": "Mustang is a rapidly growing city known for its excellent schools and family-friendly atmosphere. We are committed to providing reliable and trustworthy services to our Mustang neighbors.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Yukon",
+          "Newcastle"
+        ]
+      },
+      {
+        "city": "Choctaw",
+        "slug": "choctaw-ok",
+        "state": "OK",
+        "content": "Ralph Goodman Finish Carpentry is dedicated to providing exceptional carpentry services to the residents of Choctaw, Oklahoma. Understanding the unique character of this community, we offer tailored solutions to enhance your home or business.\n\nFrom custom-designed built-ins to detailed trim work, we focus on quality and precision. Our goal is to bring your vision to life with superior craftsmanship and attention to detail. We pride ourselves on being punctual and professional.",
+        "localContext": "Choctaw is a close-knit community with a strong sense of tradition and pride. We are committed to providing reliable and trustworthy services to our Choctaw neighbors.",
+        "nearbyAreas": [
+          "Midwest City",
+          "Nicoma Park",
+          "Harrah"
+        ]
+      },
+      {
+        "city": "Midwest City",
+        "slug": "midwest-city-ok",
+        "state": "OK",
+        "content": "Ralph Goodman Finish Carpentry offers expert carpentry services in Midwest City, Oklahoma. We understand the diverse needs of this community and provide a range of services to enhance homes and businesses.\n\nOur team specializes in custom carpentry, including cabinetry, trim work, and more. We are committed to delivering high-quality craftsmanship and exceptional customer service. We strive to exceed your expectations every time.",
+        "localContext": "Midwest City is a vibrant community with a strong connection to Tinker Air Force Base. We appreciate the dedication and service of our military neighbors and are committed to providing them with reliable services.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Del City",
+          "Choctaw"
+        ]
+      },
+      {
+        "city": "Bethany",
+        "slug": "bethany-ok",
+        "state": "OK",
+        "content": "Ralph Goodman Finish Carpentry is proud to extend its expert craftsmanship to Bethany, Oklahoma. We understand the unique charm and character of Bethany homes and businesses, and we're dedicated to providing top-quality carpentry services to enhance their beauty and functionality.\n\nFrom custom-built bookshelves and elegant trim work to complete interior renovations, we tailor our services to meet your specific needs and complement your property's style. We use only the finest materials and employ proven techniques to ensure lasting results.",
+        "localContext": "Bethany is a welcoming community known for its strong sense of faith and family. We're committed to providing reliable and trustworthy services to our Bethany neighbors.",
+        "nearbyAreas": [
+          "Warr Acres",
+          "Oklahoma City",
+          "Yukon"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah J.",
+        "rating": 5,
+        "service": "Custom Cabinetry",
+        "text": "Ralph and his team built the most gorgeous custom cabinets for my kitchen remodel. The quality is outstanding, and they were so easy to work with. They really listened to what I wanted and delivered beyond my expectations. Highly recommend!",
+        "date": "2024-08-15"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 4,
+        "service": "Trim & Molding Installation",
+        "text": "We hired Ralph Goodman Finish Carpentry to install crown molding throughout our home in Nichols Hills. The work was precise and clean, and it made a huge difference in the overall look. There was a small delay due to weather, but they communicated well and kept us informed.",
+        "date": "2024-11-22"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Custom Shelving",
+        "text": "Ralph designed and built a custom shelving unit for my home office, and it's exactly what I needed. It's beautiful, functional, and perfectly fits the space. I appreciated their attention to detail and their willingness to work with my specific requirements.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Door Installation",
+        "text": "We needed a new front door after the last ice storm damaged ours. Ralph Goodman Finish Carpentry provided excellent service. The new door is secure, energy-efficient, and looks great. The installation was quick and professional.",
+        "date": "2025-03-01"
+      },
+      {
+        "name": "Jessica M.",
+        "rating": 4,
+        "service": "Window Repair",
+        "text": "I had a window frame that was rotting due to water damage. Ralph's team came out and repaired it quickly and efficiently. They did a great job matching the existing trim and the repair is seamless. Very happy with their work.",
+        "date": "2025-04-18"
+      },
+      {
+        "name": "Brian T.",
+        "rating": 5,
+        "service": "Deck Construction",
+        "text": "Ralph and his crew built an amazing deck for our backyard. They were professional, reliable, and the craftsmanship is outstanding. We love spending time on our new deck, and it has significantly increased the value of our home.",
+        "date": "2025-05-20"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "OKC Carpenter | Ralph Goodman Finish Carpentry",
+        "description": "Expert carpentry in Oklahoma City. Custom cabinets, trim, doors, decks & more. Call Ralph Goodman Finish Carpentry today!"
+      },
+      "about": {
+        "title": "About Ralph Goodman Finish Carpentry",
+        "description": "Learn about Ralph Goodman Finish Carpentry, serving Oklahoma City with quality craftsmanship & dedication for over 10 years."
+      },
+      "services": {
+        "title": "Carpentry Services | Oklahoma City OK",
+        "description": "Full-service carpentry in OKC. Custom cabinets, trim, door & window install, deck construction. Call for a free estimate!"
+      },
+      "contact": {
+        "title": "Contact Ralph Goodman Finish Carpentry",
+        "description": "Contact Ralph Goodman Finish Carpentry for carpentry services in Oklahoma City. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "Ralph Goodman Finish Carpentry Reviews",
+        "description": "Read reviews for Ralph Goodman Finish Carpentry in Oklahoma City. See what our satisfied customers are saying about our carpentry services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Ralph Goodman Carpentry",
+        "description": "Ralph Goodman Finish Carpentry provides services to Oklahoma City and surrounding areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "custom-cabinetry": "/images/service-custom-cabinetry.webp",
+      "trim-molding-installation": "/images/service-trim-molding-installation.webp",
+      "custom-shelving": "/images/service-custom-shelving.webp",
+      "door-installation-repair": "/images/service-door-installation-repair.webp",
+      "window-installation-repair": "/images/service-window-installation-repair.webp",
+      "deck-patio-construction": "/images/service-deck-patio-construction.webp"
+    },
+    "servicesResponsive": {
+      "custom-cabinetry": {
+        "src": "/images/service-custom-cabinetry.webp",
+        "srcset": "/images/service-custom-cabinetry-400w.webp 400w, /images/service-custom-cabinetry-800w.webp 800w, /images/service-custom-cabinetry-1200w.webp 1200w, /images/service-custom-cabinetry.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "trim-molding-installation": {
+        "src": "/images/service-trim-molding-installation.webp",
+        "srcset": "/images/service-trim-molding-installation-400w.webp 400w, /images/service-trim-molding-installation-800w.webp 800w, /images/service-trim-molding-installation-1200w.webp 1200w, /images/service-trim-molding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-shelving": {
+        "src": "/images/service-custom-shelving.webp",
+        "srcset": "/images/service-custom-shelving-400w.webp 400w, /images/service-custom-shelving-800w.webp 800w, /images/service-custom-shelving-1200w.webp 1200w, /images/service-custom-shelving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-installation-repair": {
+        "src": "/images/service-door-installation-repair.webp",
+        "srcset": "/images/service-door-installation-repair-400w.webp 400w, /images/service-door-installation-repair-800w.webp 800w, /images/service-door-installation-repair-1200w.webp 1200w, /images/service-door-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-installation-repair": {
+        "src": "/images/service-window-installation-repair.webp",
+        "srcset": "/images/service-window-installation-repair-400w.webp 400w, /images/service-window-installation-repair-800w.webp 800w, /images/service-window-installation-repair-1200w.webp 1200w, /images/service-window-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-patio-construction": {
+        "src": "/images/service-deck-patio-construction.webp",
+        "srcset": "/images/service-deck-patio-construction-400w.webp 400w, /images/service-deck-patio-construction-800w.webp 800w, /images/service-deck-patio-construction-1200w.webp 1200w, /images/service-deck-patio-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
